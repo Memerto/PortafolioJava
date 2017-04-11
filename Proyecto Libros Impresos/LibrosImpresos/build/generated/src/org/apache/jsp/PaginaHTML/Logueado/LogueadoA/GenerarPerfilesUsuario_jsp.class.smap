@@ -1,0 +1,22 @@
+SMAP
+GenerarPerfilesUsuario_jsp.java
+JSP
+*S JSP
+*F
++ 0 GenerarPerfilesUsuario.jsp
+PaginaHTML/Logueado/LogueadoA/GenerarPerfilesUsuario.jsp
+*L
+1:54
+6,5:55
+10,2:59,9
+12:77,2
+13,2:79,9
+15:97,2
+16,35:99
+51:134,7
+52,12:141
+63:188,11
+64:199,3
+65:202
+65,16:155
+*E
